@@ -1,3 +1,5 @@
+# GIF Creator
+
 import imageio.v3 as iio
 
 filenames = ['fh540-1620x1620-1.png', 'fh540-1620x1620-2.png', 'fh540-1620x1620-3.png']
